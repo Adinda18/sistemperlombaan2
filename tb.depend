@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1524323183 source:f:\tubes new\tbc\list_lomba.cpp
+	"list_lomba.h"
+	"relasi.h"
+
+1524322517 f:\tubes new\tbc\list_lomba.h
+	<iostream>
+	<cstdlib>
+
+1524337812 f:\tubes new\tbc\relasi.h
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<iostream>
+
+1524269993 f:\tubes new\tbc\list_peserta.h
+	<iostream>
+	<string>
+
+1524339980 source:f:\tubes new\tbc\list_peserta.cpp
+	"list_peserta.h"
+	"relasi.h"
+
+1524339980 source:f:\tubes new\tbc\main.cpp
+	<iostream>
+	<string>
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<conio.h>
+
+1524336713 source:f:\tubes new\tbc\relasi.cpp
+	"relasi.h"
+	<iostream>
+	<string>
+
+1524402093 source:f:\tubes new\_baru\list_lomba.cpp
+	"list_lomba.h"
+	"relasi.h"
+
+1524402203 f:\tubes new\_baru\list_lomba.h
+	<iostream>
+	<cstdlib>
+
+1524402440 f:\tubes new\_baru\relasi.h
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<iostream>
+
+1524402203 f:\tubes new\_baru\list_peserta.h
+	<iostream>
+	<string>
+
+1524400728 source:f:\tubes new\_baru\list_peserta.cpp
+	"list_peserta.h"
+	"relasi.h"
+
+1524439765 source:f:\tubes new\_baru\main.cpp
+	<iostream>
+	<string>
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<conio.h>
+
+1524402440 source:f:\tubes new\_baru\relasi.cpp
+	"relasi.h"
+	<iostream>
+	<string>
+
+1524402093 source:d:\kuliah trooos\file std\fix\list_lomba.cpp
+	"list_lomba.h"
+	"relasi.h"
+
+1524402203 d:\kuliah trooos\file std\fix\list_lomba.h
+	<iostream>
+	<cstdlib>
+
+1524402440 d:\kuliah trooos\file std\fix\relasi.h
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<iostream>
+
+1524402203 d:\kuliah trooos\file std\fix\list_peserta.h
+	<iostream>
+	<string>
+
+1524400728 source:d:\kuliah trooos\file std\fix\list_peserta.cpp
+	"list_peserta.h"
+	"relasi.h"
+
+1565487303 source:d:\kuliah trooos\file std\fix\main.cpp
+	<iostream>
+	<string>
+	"list_lomba.h"
+	"list_peserta.h"
+	"relasi.h"
+	<conio.h>
+
+1556444168 source:d:\kuliah trooos\file std\fix\relasi.cpp
+	"relasi.h"
+	<iostream>
+	<string>
+
